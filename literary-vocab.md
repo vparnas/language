@@ -1,4 +1,4 @@
-# Description
+## Description
 
 Collection of English vocabulary I acquired reading 19th century and even older works. Many of these words are still in use. Others are legacy. Some are *extremely* archaic (ie Middle Ages). 
 
@@ -244,7 +244,7 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 
 **Peradventure**: by chance, possibly [Speaking Portuguese, one native Spanish speaker constantly used 'por ventura' in the same context]
 
-Stratagem: strategy (from Latin)
+**Stratagem**: strategy (from Latin)
 
 ## Convenient, yet slightly obsolete verb forms
 
