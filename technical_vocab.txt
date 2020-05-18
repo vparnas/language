@@ -1,0 +1,93 @@
+Eng | Esp | Рус | Pol | PT
+
+------- Computer-related -------
+
+Security | seguridad | защита | | segurança
+Environment | entorno | среда (операционная) | środek | ambiente
+Desktop | Escritorio | рабочий стол [так и есть], десктоп | ?
+Background | Fondo | задний план
+Computer/Laptop | Computadora,Portátil,Ordenador | компьютер, лаптоп | komputer, laptop | computador
+Raspberry PI | | Малинка | 
+Tablet | | Таблетка | 
+Link | Enlace/Vínculo | Ссылка | link (colloquial)/łącze | link
+Repository | Repositorio | Репозиторий
+Branch | Rama (agarrar una rama) | ветвь
+Browser | Navegador | Броузер, программа просмотра | | 
+Browser tab | Pestaña | вкладка
+Browser window | Ventana | Окошко
+Function | Función | Функция
+Spellchecker | Corrector ortográfico | (Орфографический) корректор
+Email | correo electronico, email | электронная почта, имейл | | email
+File | fichero, archivo | Файл | Plik, archiwum
+Directory, folder | directorio, carpeta | директория | folder
+Subdirectory | Subdirectorio | Субдиректория
+Parent directory | Directorio padre, carpeta padre | Владелец?
+Rename | Renombrar | Реименовать | Zmienić nazwę | renomear
+Erase, Delete | Borrar | Стереть | Usunąć (usuń)
+Copy | Copiar | Копировать | kopiować (kopiuj)
+Move | Mover, transferir | Пересылать, перемещать | przenieść (przenieś)
+Paste | Pegar | Вставить, Вставлять 
+Replace | Reemplazar | Заменить | Zmieniać, zmienić | Substituir
+Insert | Insertar, Poner, Meter | вставить | wstawić, wkładać | | inserir
+Upload | Cargar, Subir | Загрузить | przesłać | colocar
+Download | Descargar | Скачать, Загрузить | Ściągać, pobieranie (noun) | Baixar
+Send | Enviar, Mandar | Отправить, послать | wysłać, przesłać | mandar
+Transfer | Transferir | Перенести, передать, переслать | przenieść
+Drag | Arrastrar | (пере)тащить | (prze)ciągnąć | arrastrar
+Device, Tool, contraption, mechanism | Despositivo, Herramienta, mecanismo | Прибор, Устройство, Средство, апарат  | urządzenie, przyrząd, aparat | aparelho, ferramenta
+Network | Red | Сеть | Sieć | red
+Password | La clave, el contraseña | Пароль | Hasło, Parol | senha, chave
+Display | Pantalla | Изображение | | Tela
+Bootloader | Cargador de arranque | загрузчик операционной системы
+Load | Lanzar | Загрузить | | Carregar
+Hard disk, permanent memory | Disco duro, memoria permanente | Постоянная память
+Volatile memory | Memoria temporal | Временная память
+Message | Mensaje (de texto) | Сообщение | wiadomość (tekstowa) | mensagem, recado
+Request | Solicitud | Запрос | | 
+Inbox | bandeja de entrada | входящие | caixa de entrada
+Draft | borrador | черновик | | rascunho
+Account | Cuenta | учетнaя запись (root, domain) | conto | conta
+Forward | Reenviar | Переслать | | encaminhar
+Voicemail | Buzón de voz | автоответчик, звуковое сообщение | | recado de voz
+(Web) site,page | Sitio,página de web | вебсайт,страница | Strona | site
+User | Usario | Пользователь | użytkownik | 
+Regulate, configure | Configurar, gestionar | Контроллировать, регулировать
+Shortcut | Atajo | ? | skrót | atalho
+Button | Botón | Кнопка
+Press/Push | Presionar/pulsar/oprimir | нажимать
+Click | Hacer clic | Кликнуть
+(En)Queue | Cola/(En)Colar | (Поставить в) очередь | Kolejka, Stać w kolejce
+Star, Highlight | Destacar | Выделить | | Destacar
+
+------- Electronic --------
+Breadboard | Montaje experimental/provisional | макет, макетная плата
+Solder | Soldar | Поять
+Soldering iron | Soldador | Пояльник
+Wire | Cable | Провод
+Resistor/Resistance | Resistor/resistencia | резистор/сопротивление
+Transistor | Transistor | Транзистор
+Diode | Diodo | Диод
+Energy/Power | Energía | Энергия
+Voltage | Voltaje | Напряжение
+Current | Corriente | Ток
+Capacitor | Condensador | Конденсатор
+Cicruit board | Placa | Плата
+(Micro)chip | Microplaquita | Микрочип
+Microcontroller | Microcontrolador | Микроконтроллер
+Multimeter | multímetro | мультиметр
+Component | Componente | Компонент?
+Circuit | Circuito | Микроксхема
+Speaker | Altavoz | Калонка
+Screwdriver | destornillador | Отвертка
+Screw | tornillo | Винт
+To screw/unscrew | Atornillar/desatornillar | Завинтить/Развинтить
+Pliers | Alicates | Плоскогубцы
+Nail | Clavo | гвоздь
+Outlet | Toma de Corriente | Разетка
+Plug/To plug-in  | Enchufe/Enchufar | Вилка/Подключить
+Connect/plug in | Enchufar/conectar | Подключить, подсоединить
+To ground | Conectar a tierra | to ground/заземлять
+Power Supply | Fuente de alimentación | блок питания
+Sensor | Sensor | Датчик
+Switch/Circuit-breaker | Interruptor | Выключатель 
+  (ej: un interruptor de la luz)
