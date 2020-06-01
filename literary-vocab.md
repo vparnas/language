@@ -214,6 +214,12 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 
 **Pernicious**: menacing, destructive, injurious
 
+**Confounded**: confused, perplexed
+
+**Tractable**: agreeable (**intractable** = disagreeable)
+
+**Vexation**: worry, irritation, annoyance
+
 ## The ancient or the archaic
 
 **Hither**: here
