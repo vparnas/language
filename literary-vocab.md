@@ -204,7 +204,7 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 
 **Infirmity**: illness/sickness
 
-**Austere**: stern/cold in appearance/countenance
+**Austere**: severely simple; stern/cold in appearance/countenance
 
 **Voluptuous**: of pleasure, sensual joy (ie: voluptuous life)
 
@@ -219,6 +219,12 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 **Tractable**: agreeable (**intractable** = disagreeable)
 
 **Vexation**: worry, irritation, annoyance
+
+**Repast**: meal
+
+**Repose**: rest
+
+**Extempore**: spontaneous, improvised
 
 ## The ancient or the archaic
 
