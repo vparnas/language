@@ -226,6 +226,8 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 
 **Extempore**: spontaneous, improvised
 
+**Perfidious**: of treacherous character, inclined to betray
+
 ## The ancient or the archaic
 
 **Hither**: here
@@ -244,6 +246,10 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 
 **Whence**: from where/from what place
 
+**Thence**: from that place/from there
+
+**Hence**: from this place/from here [*accordingly* in modern language]
+
 **Whereof**: of which or what (ie: Whereof is this made?)
 
 **Therewith**: with *that* (something previously mentioned)
@@ -252,11 +258,19 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 
 **Betwixt**: between
 
-**Withall**: all things considered, in general
+**Withall**: all things considered, notwithstanding, despite everything to the contrary
 
 **Peradventure**: by chance, possibly [Speaking Portuguese, one native Spanish speaker constantly used 'por ventura' in the same context]
 
 **Stratagem**: strategy (from Latin)
+
+**prithee**: please
+
+**Remotion**: Removal (Portuguese remoção)
+
+**Dolours**: Pains
+
+**Incense**: importune, convince of incentive (Portuguese incentivar)
 
 ## Convenient, yet slightly obsolete verb forms
 
