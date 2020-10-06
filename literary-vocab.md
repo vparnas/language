@@ -244,11 +244,13 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 
 **Ere**: before
 
-**Whence**: from where/from what place
+**Oft**: often
+
+**Whence**: from where/from what place. Ex: "Whence art thou?"
 
 **Thence**: from that place/from there
 
-**Hence**: from this place/from here [*accordingly* in modern language]
+**Hence**: from this place/from here [*accordingly* in modern language]. Ex: "Let's hence."
 
 **Whereof**: of which or what (ie: Whereof is this made?)
 
@@ -271,6 +273,10 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 **Dolours**: Pains
 
 **Incense**: importune, convince of incentive (Portuguese incentivar)
+
+**Nought**: Nothing
+
+**Trow**: Believe (I trow ...)
 
 ## Convenient, yet slightly obsolete verb forms
 
