@@ -50,7 +50,7 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 
 **Exordium**: introductory speech
 
-**Fain**: inclined
+**Fain**: inclined/rather
 
 **Immutableness**: unchangeableness
 
@@ -60,7 +60,7 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 
 **Ligature**: connection
 
-**Puissant**: powerful
+**Puissant**: powerful (puissance: power to influence/coerce)
 
 **Respite**: rest
 
@@ -100,7 +100,7 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 
 **Astir**: in motion, moving about (ie: to be soon astir)
 
-**Yonder**: in the indicated direction within sight (ie: yonder bones in a corner [encountered in a Edgar Poe short story, I think])
+**Yonder** (yon): in the indicated direction within sight (ie: yonder bones in a corner [encountered in a Edgar Poe short story, I think])
 
 **Ardour**: strong enthusiasm for someone or something (ie: pursue objects with surprising ardour)
 
@@ -218,6 +218,10 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 
 **Tractable**: agreeable (**intractable** = disagreeable)
 
+**Toward** / **untoward**: [same as above]
+
+**Meet*: appropriate
+
 **Vexation**: worry, irritation, annoyance
 
 **Repast**: meal
@@ -227,6 +231,12 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 **Extempore**: spontaneous, improvised
 
 **Perfidious**: of treacherous character, inclined to betray
+
+**Usurp**: seize or take control without authority (usurper = an individual who does so)
+
+**Puissance**: power to influence or coerce
+
+**Alloy**: To Create, creation
 
 ## The ancient or the archaic
 
@@ -277,6 +287,16 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 **Nought**: Nothing
 
 **Trow**: Believe (I trow ...)
+
+**Verity** / **Verily**: Truth, truthfully
+
+**Anon**: momentarily, in just a moment, any moment now
+
+**Morrow**: next day, morning
+
+**Morn**, **Forenoon**: morning
+
+**Eve**: the day before, the period right before some event
 
 ## Convenient, yet slightly obsolete verb forms
 
