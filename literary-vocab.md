@@ -220,7 +220,7 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 
 **Toward** / **untoward**: [same as above]
 
-**Meet*: appropriate
+**Meet*: appropriate, suitable
 
 **Vexation**: worry, irritation, annoyance
 
@@ -237,6 +237,16 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 **Puissance**: power to influence or coerce
 
 **Alloy**: To Create, creation
+
+**Doleful**: afflicted, anguished
+
+**Affluence**: prosperousness, ampleness
+
+**Celestial**: of the sky (elysian, astral)
+
+**Ingress**: entry/entrance
+
+**Egress**: exit [the two used by Poe in a handful of prose]
 
 ## The ancient or the archaic
 
@@ -268,7 +278,7 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 
 **Forasmuch**: Seeing that, in view of the fact...
 
-**Betwixt**: between
+**Betwixt** ('twixt): between
 
 **Withall**: all things considered, notwithstanding, despite everything to the contrary
 
@@ -284,7 +294,9 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 
 **Incense**: importune, convince of incentive (Portuguese incentivar)
 
-**Nought**: Nothing
+**Aught**: something
+
+**Nought/naught**: Nothing
 
 **Trow**: Believe (I trow ...)
 
@@ -297,6 +309,38 @@ But otherwise, it attains none but purely academic benefit. On the contrary, use
 **Morn**, **Forenoon**: morning
 
 **Eve**: the day before, the period right before some event
+
+**Sans**: without
+
+**Neath**: Beneath
+
+**Lewd**: obscene, improper (lewdness)
+
+**Eke**, **als**: also
+
+**Bewray**: reveal, expose
+
+**dight**: to clothe, compose; clothed
+
+**erst**: formerly, in the recent past
+
+**eftsoones**: afterwards, forthwith
+
+**clad**: dressed
+
+**hight**: call, mention, be called
+
+**list**: to wish, desire
+
+**thilke**: this
+
+**whilome**: in past time, once upon a time
+
+**wight**: a person/creature/'one'
+
+**wont**: to be accustomed to (verb, adj)
+
+**surquedry**:
 
 ## Convenient, yet slightly obsolete verb forms
 
